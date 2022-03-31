@@ -1,0 +1,10 @@
+/* Estilos para elementos da lista */
+#ligado {
+  background-color: gray;
+
+}
+
+.completed {
+  text-decoration: line-through;
+
+}
