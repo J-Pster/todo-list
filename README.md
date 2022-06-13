@@ -1,4 +1,4 @@
-# Projeto To do List
+# Projeto To do List [View/Ver](https://j-pster.github.io/todo-list/)
 Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.betrybe.com/) por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ :rocket:
 
 ### Descrição
